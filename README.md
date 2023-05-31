@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=027373&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04BF9Dsize=55&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabriel+Ulick;Cursando+Sistemas+de+Informação+pelo+IFES;Buscando+conhecimento+na+area.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04BF9Dsize=55&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabriel+Ulick;Estou+cursando+Sistemas+de+Informação+pelo+IFES;Buscando+conhecimento+na+area+e+em+novas+tecnologias.)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielUlick&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=027373&icon_color=F2668B&text_color=03A688&bg_color=0d1117" alt="Gabriel Ulick github stats" />
