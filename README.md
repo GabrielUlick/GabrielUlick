@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04BF9Dsize=55&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabriel+Ulick;Estou+cursando+Sistemas+de+Informação+pelo+IFES;Buscando+conhecimento+na+area+e+em+novas+tecnologias.)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielUlick&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=027373&icon_color=F2668B&text_color=03A688&bg_color=0d1117" alt="GabrielUlick's github stats" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielUlick=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUlick&show_icons=true&theme=radical)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielUlick=anuraghazra&show_icons=true&theme=radical) -->
 </div>
 
 <div align="center" style="display: inline-block"><br>
