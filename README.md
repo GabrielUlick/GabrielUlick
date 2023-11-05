@@ -2,8 +2,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04BF9Dsize=55&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Gabriel+Ulick;Estou+cursando+Sistemas+de+Informação+pelo+IFES;Buscando+conhecimento+na+area+e+em+novas+tecnologias.)](https://git.io/typing-svg)
 
-<div align="center">  
+
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielUlick&show_icons=true&theme=radical)
+<div align="center">  
+
 <!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielUlick=anuraghazra&show_icons=true&theme=radical) -->
 </div>
 
