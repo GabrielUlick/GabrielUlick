@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielUlick&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=027373&icon_color=F2668B&text_color=03A688&bg_color=0d1117" alt="GabrielUlick's github stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielUlick&layout=compact&hide_border=true&langs_count=10&title_color=5FCDD9&text_color=F2668B&bg_color=0d1117" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielUlick=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 <div align="center" style="display: inline-block"><br>
