@@ -25,12 +25,13 @@
   
   ##
  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielUlick&bg_color=050f2c&color=ffffff&line=0794de&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
   <a href="https://api.whatsapp.com/send?phone=5527992655609&text=Olá%2C%20vim%20pelo%20GitHub%20😊" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrieludb@hotmail.com.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=for-the-badge&logo-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-ulick-bernardina-011203172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielUlick&bg_color=050f2c&color=ffffff&line=0794de&point=00ff1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a004f&height=120&section=footer"/>
