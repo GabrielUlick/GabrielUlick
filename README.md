@@ -31,6 +31,6 @@
   <a href="https://www.linkedin.com/in/gabriel-ulick-bernardina-011203172/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GabrielUlick&bg_color=0d1117&color=04BF9D&line=F2668B&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=GabrielUlick&bg_color=0d1117&color=04BF9D&line=F2668B&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3a004f&height=120&section=footer"/>
